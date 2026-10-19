@@ -1,141 +1,61 @@
 # Gregorio Hakimian
 
-**Data Engineering | Data Architecture | Data foundations for AI**
+**Data Governance · Data Management · Data Privacy · Data Quality · AI Governance**
 
-I work at the intersection of data, technology, and business.
+I design and implement programs in these areas, hands-on and business-focused. This is where the hands-on part lives: data platforms, data quality checks and AI systems built with governance in mind.
 
----
-
-## About Me
-
-I’m a technology professional focused on **data engineering, data architecture, and data platforms**, with a foundation in software development and database systems.
-
-My experience combines technical depth and business understanding. I started my career in software development and database administration, which gave me a solid grounding in systems and data management. Over time, I expanded into data platforms and large-scale data initiatives, taking on program and delivery responsibilities in projects related to Big Data and machine learning-based products.
-
-I’ve worked in roles ranging from hands-on technical work to executive-level positions, leading initiatives that required aligning engineering execution with business goals. This has involved working with multidisciplinary teams, engaging with clients and partners, and operating in environments with data privacy and compliance constraints.
-
-My experience spans both **startup and corporate environments**, including founding a software development company, which later became part of an international group.
-
-I take **end-to-end ownership** of the challenges I work on, with a strong focus on execution and outcomes.
-
-I hold a degree in **Information Systems Engineering** and a postdegree in **Business Administration**, complemented by further studies in data privacy, information security, leadership, and communication. This background allows me to connect technical decisions with business impact.
+25+ years of experience in Software Engineering, Data Architecture, Data Engineering and AI Engineering, combined with Technology Leadership, Program & Project Management, and Transformation & Change Management.
 
 ---
 
-## What I Focus On
+## Governance
 
-My current focus is on building **modern data platforms**, particularly those that are:
+- **Data quality as code:** tests and checks inside the pipeline (dbt, Soda)
+- **Privacy by design:** sensitive data handling, anonymization and access control
+- **Metadata, catalog & lineage:** Microsoft Purview, Databricks Unity Catalog
+- **AI governance in practice:** RAG and agentic systems with traceability, evaluation and controls (OWASP Top 10 for LLM)
 
-- Scalable and cloud-oriented  
-- Reliable and maintainable  
-- Aligned with governance and compliance needs  
-- Ready to support AI and advanced analytics  
-
-This involves work around:
-
-- Data platform architecture
-- Data engineering
-- Data modeling and integration
-- Data governance and privacy
-- Data foundations for AI systems
+Frameworks: DAMA-DMBOK · DCAM · ISO 8000 · ISO/IEC 42001 · ISO/IEC 27001 · NIST AI RMF · EU AI Act · GDPR · CCPA/CPRA
 
 ---
 
-## Tech Focus
+## Tech stack
 
-**Data Processing**
-- SQL
-- Python
-- Pandas
-- SQLAlchemy
-- Jupyter Notebooks
-- Data modeling
-- Data Warehouse
-- Data Lake
-- dbt
-- Airflow
-- Airbyte
+- **Data:** SQL, Python, Pandas, SQLAlchemy, dbt, Airflow, Airbyte, Data Warehouse, Data Lake, Lakehouse
+- **Data quality & governance:** Soda, Microsoft Purview, Databricks Unity Catalog
+- **AI:** LangChain, LangGraph, embeddings, vector databases (Pinecone, Weaviate)
+- **Cloud & infrastructure:** AWS, Terraform, Docker
+- **Tooling:** Git, GitHub, Linux, Shell scripting
 
-**Cloud & Infrastructure**
-- AWS
-- Terraform
-- Docker & Docker Compose
+---
 
-**Engineering & Tooling**
-- Git & GitHub
-- Linux
-- Shell scripting
-- Plain text data processing
-- Soda
+## Projects
+
+### Telecom Alternative Credit Scoring Platform
+Batch data platform that turns telecom CDR signals into alternative credit scores.
+- End-to-end pipeline and behavioral data modeling
+- Scalable processing design
+- Data quality checks
+- Handling of personal data: pseudonymization, access rules
+
+### AI Context Platform (RAG for Decision Support)
+RAG platform that gives decision-support systems reliable, contextual data.
+- Ingestion, retrieval, embeddings and vector storage
+- Structured knowledge access for LLMs
+- [Source traceability, evaluation, guardrails]
+
+### Engineering Environment (dotfiles)
+Reproducible setup for data and AI work: consistent environments and CLI-based workflows.
 
 ---
 
 ## Certifications
 
-- AWS Solutions Architect Associate
-- AWS Data Engineer Asociate
-
----
-
-## Currently Exploring
-
-- Toon file format processing
-- Spec-Driven Development
-- Data for AI (RAG): document chunking, embeddings, and vector database integration (Pinecone, Weaviate)
-
----
-
-## Projects & Case Studies
-
-The projects are structured to represent different layers of a data ecosystem:
-
-- **Engineering Foundations** → dotfiles
-- **Data Platforms & Use Cases** → Credit Scoring
-- **AI-oriented Systems** → RAG Platform
-
----
-
-### Telecom Alternative Credit Scoring Platform
-
-A **batch data platform** designed to generate alternative credit scores using telecom data (CDR signals).
-
-**Key aspects:**
-- End-to-end data pipeline
-- Behavioral data modeling
-- Scalable processing design
-- Business-oriented outputs
-
-**Focus:**  
-Connecting raw data with decision-making use cases.
-
----
-
-### AI Context Platform (RAG for Decision Support)
-
-A **Retrieval-Augmented Generation (RAG) platform** aimed at improving decision support through contextual data.
-
-**Key aspects:**
-- Data ingestion and retrieval pipelines  
-- Embeddings and vector storage  
-- Integration with language models  
-- Structured knowledge access  
-
-**Focus:**  
-Supporting AI systems with reliable and contextual data.
-
----
-
-### Engineering Environment (dotfiles)
-
-A personal setup focused on **productivity and reproducibility**.
-
-**Key aspects:**
-- Environment consistency
-- CLI-based workflows
-- Development efficiency
+ISO 27001 Internal Auditor · AWS Certified Solutions Architect – Associate · AWS Certified Data Engineer – Associate
 
 ---
 
 ## Contact
 
 - LinkedIn: https://www.linkedin.com/in/gregoriohakimian/
+- Vektoria: https://www.vektoria.io
