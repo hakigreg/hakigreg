@@ -32,14 +32,7 @@ Frameworks: DAMA-DMBOK · DCAM · ISO 8000 · ISO/IEC 42001 · ISO/IEC 27001 · 
 
 ## Projects
 
-### Telecom Alternative Credit Scoring Platform
-Batch data platform that turns telecom CDR signals into alternative credit scores.
-- End-to-end pipeline and behavioral data modeling
-- Scalable processing design
-- Data quality checks
-- Handling of personal data: pseudonymization, access rules
-
-### [Governance as Code with ODCS Data Contracts](https://github.com/hakigreg/odcs-governance-as-code)
+### Governance as Code with ODCS Data Contracts
 Reference implementation that turns data contracts into executable governance
 controls for regulated analytics and AI.
 
@@ -47,11 +40,12 @@ controls for regulated analytics and AI.
 - CI gates for ODCS conformance, organizational policy, compatibility and runtime data quality
 - Dockerized PostgreSQL demonstrations with passing and intentionally rejected scenarios
 
-### AI Context Platform (RAG for Decision Support)
-RAG platform that gives decision-support systems reliable, contextual data.
-- Ingestion, retrieval, embeddings and vector storage
-- Structured knowledge access for LLMs
-- [Source traceability, evaluation, guardrails]
+### Telecom Alternative Credit Scoring Platform
+Batch data platform that turns telecom CDR signals into alternative credit scores.
+- End-to-end pipeline and behavioral data modeling
+- Scalable processing design
+- Data quality checks
+- Handling of personal data: pseudonymization, access rules
 
 ### Engineering Environment (dotfiles)
 Reproducible setup for data and AI work: consistent environments and CLI-based workflows.
@@ -67,4 +61,4 @@ ISO 27001 Internal Auditor · AWS Certified Solutions Architect – Associate ·
 ## Contact
 
 - LinkedIn: https://www.linkedin.com/in/gregoriohakimian/
-- Vektoria: https://www.vektoria.io
+- Website: https://www.vektoria.io
