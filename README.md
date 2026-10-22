@@ -11,7 +11,7 @@ I design and implement programs in these areas, hands-on and business-focused.
 ## Governance
 
 - **Data contracts & governance as code:** machine-readable agreements and executable controls
-- **Data quality:** dbt, Soda
+- **Data quality:** dbt, Soda Core
 - **Privacy by design:** sensitive data handling, anonymization and access control
 - **Metadata, catalog & lineage:** Microsoft Purview, Databricks Unity Catalog
 - **AI governance in practice:** RAG and agentic systems with traceability, evaluation and controls (OWASP Top 10 for LLM)
@@ -24,7 +24,7 @@ Frameworks: DAMA-DMBOK · DCAM · ISO 8000 · ISO/IEC 42001 · ISO/IEC 27001 · 
 
 - **Data:** SQL, Python, Pandas, SQLAlchemy, dbt, Airflow, Airbyte, Data Warehouse, Data Lake, Lakehouse
 - **Data contracts:** Open Data Contract Standard (ODCS), Data Contract CLI
-- **Data quality & governance:** Soda, Microsoft Purview, Databricks Unity Catalog
+- **Data quality & governance:** Soda Core, Microsoft Purview, Databricks Unity Catalog
 - **Cloud & infrastructure:** AWS, Terraform, Docker
 - **Tooling:** Git, GitHub, Linux, Shell scripting
 
