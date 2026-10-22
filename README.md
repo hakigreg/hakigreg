@@ -32,7 +32,7 @@ Frameworks: DAMA-DMBOK · DCAM · ISO 8000 · ISO/IEC 42001 · ISO/IEC 27001 · 
 
 ## Projects
 
-### Governance as Code with ODCS Data Contracts
+### [Governance as Code with ODCS Data Contracts](https://github.com/hakigreg/odcs-governance-as-code)
 Reference implementation that turns data contracts into executable governance
 controls for regulated analytics and AI.
 
@@ -40,14 +40,22 @@ controls for regulated analytics and AI.
 - CI gates for ODCS conformance, organizational policy, compatibility and runtime data quality
 - Dockerized PostgreSQL demonstrations with passing and intentionally rejected scenarios
 
-### Telecom Alternative Credit Scoring Platform
+### [Fintech Payments: Data Quality Controls with Soda Core](https://github.com/hakigreg/fintech-payments-data-quality)
+Production-oriented implementation of executable data-quality controls for fintech payments.
+
+- Four Soda Core contracts across payment events, transactions, ledger entries and settlements
+- Nine deterministic scenarios covering a passing path and intentionally rejected data-quality failures
+- Reproducible local execution with DuckDB and Parquet, plus CI-generated quality evidence
+
+### [Telecom Alternative Credit Scoring Platform](https://github.com/hakigreg/telco_alt_creditscore)
 Batch data platform that turns telecom CDR signals into alternative credit scores.
+
 - End-to-end pipeline and behavioral data modeling
 - Scalable processing design
 - Data quality checks
 - Handling of personal data: pseudonymization, access rules
 
-### Engineering Environment (dotfiles)
+### [Engineering Environment (dotfiles)](https://github.com/hakigreg/dotfiles)
 Reproducible setup for data and AI work: consistent environments and CLI-based workflows.
 
 ---
