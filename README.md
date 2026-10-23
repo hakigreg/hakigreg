@@ -2,13 +2,13 @@
 
 **Data Governance · Data Management · Data Privacy · Data Quality · AI Governance**
 
-I design and implement programs in these areas, hands-on and business-focused.
+Hands-on design and implementation of Data & AI Governance programs, with a business-focused approach.
 
-25+ years of experience in Software Engineering, Data Architecture, Data Operations and AI Engineering, combined with Technology Leadership, Program & Project Management, and Transformation & Change Management.
+Multidisciplinary background spanning Software Engineering, Data Architecture, Data Operations, Data Management, Data Privacy & Compliance, AI Implementation, Program & Project Management, and Technology Leadership.
 
 ---
 
-## Governance
+## Governance in practice
 
 - **Data contracts & governance as code:** machine-readable agreements and executable controls
 - **Data quality:** dbt, Soda Core
@@ -70,3 +70,4 @@ ISO 27001 Internal Auditor · AWS Certified Solutions Architect – Associate ·
 
 - LinkedIn: https://www.linkedin.com/in/gregoriohakimian/
 - Website: https://www.vektoria.io
+
