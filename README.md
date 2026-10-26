@@ -32,6 +32,13 @@ Frameworks: DAMA-DMBOK · DCAM · ISO 8000 · ISO/IEC 42001 · ISO/IEC 27001 · 
 
 ## Projects
 
+### [OpenMetadata Data Context for AI](https://github.com/hakigreg/openmetadata-data-context-for-ai)
+Reproducible OpenMetadata implementation that turns a digital commerce warehouse into governed, AI-ready data context.
+
+- Metadata ingestion, profiling, ownership, domains, glossary, classifications and Data Product curation
+- dbt descriptions, tests, tags and table/column lineage consolidated in OpenMetadata
+- API-derived AI Context Pack containing governed metadata without customer rows
+
 ### [Governance as Code with ODCS Data Contracts](https://github.com/hakigreg/odcs-governance-as-code)
 Reference implementation that turns data contracts into executable governance
 controls for regulated analytics and AI.
