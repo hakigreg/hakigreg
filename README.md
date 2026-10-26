@@ -55,9 +55,6 @@ Batch data platform that turns telecom CDR signals into alternative credit score
 - Data quality checks
 - Handling of personal data: pseudonymization, access rules
 
-### [Engineering Environment (dotfiles)](https://github.com/hakigreg/dotfiles)
-Reproducible setup for data and AI work: consistent environments and CLI-based workflows.
-
 ---
 
 ## Certifications
