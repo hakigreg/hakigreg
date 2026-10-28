@@ -16,7 +16,7 @@ Multidisciplinary background spanning Software Engineering, Data Architecture, D
 - **Metadata, catalog & lineage:** Microsoft Purview, Databricks Unity Catalog
 - **AI governance in practice:** RAG and agentic systems with traceability, evaluation and controls (OWASP Top 10 for LLM)
 
-Frameworks: DAMA-DMBOK · DCAM · ISO 8000 · ISO/IEC 42001 · ISO/IEC 27001 · NIST AI RMF · EU AI Act · GDPR · CCPA/CPRA
+Frameworks: DAMA-DMBOK · DCAM · ISO 8000 · ISO/IEC 42001 · ISO/IEC 27001 · NIST AI RMF · EU AI Act · GDPR · CCPA
 
 ---
 
