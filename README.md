@@ -2,9 +2,11 @@
 
 **Data Governance · Data Management · Data Privacy · Data Quality · AI Governance**
 
-Hands-on design and implementation of Data & AI Governance programs, with a business-focused approach.
+Hands-on design and implementation of Data Foundations programs, with a business-focused approach.
 
 Multidisciplinary background spanning Software Engineering, Data Architecture, Data Operations, Data Management, Data Privacy & Compliance, AI Implementation, Program & Project Management, and Technology Leadership.
+
+Open to senior Data & AI Governance roles and long-term embedded engagements with organizations across the US and LATAM.
 
 ---
 
@@ -13,8 +15,7 @@ Multidisciplinary background spanning Software Engineering, Data Architecture, D
 - **Data contracts & governance as code:** machine-readable agreements and executable controls
 - **Data quality:** dbt, Soda Core
 - **Privacy by design:** sensitive data handling, anonymization and access control
-- **Metadata, catalog & lineage:** Microsoft Purview, Databricks Unity Catalog
-- **AI governance in practice:** RAG and agentic systems with traceability, evaluation and controls (OWASP Top 10 for LLM)
+- **Metadata, catalog & lineage:** OpenMetadata, dbt, Microsoft Purview, Databricks Unity Catalog
 
 Frameworks: DAMA-DMBOK · DCAM · ISO 8000 · ISO/IEC 42001 · ISO/IEC 27001 · NIST AI RMF · EU AI Act · GDPR · CCPA
 
@@ -54,13 +55,6 @@ Production-oriented implementation of executable data-quality controls for finte
 - Nine deterministic scenarios covering a passing path and intentionally rejected data-quality failures
 - Reproducible local execution with DuckDB and Parquet, plus CI-generated quality evidence
 
-### [Telecom Alternative Credit Scoring Platform](https://github.com/hakigreg/telco_alt_creditscore)
-Batch data platform that turns telecom CDR signals into alternative credit scores.
-
-- End-to-end pipeline and behavioral data modeling
-- Scalable processing design
-- Data quality checks
-- Handling of personal data: pseudonymization, access rules
 
 ---
 
