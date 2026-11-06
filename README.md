@@ -2,7 +2,7 @@
 
 **Data Governance · Data Management · Data Privacy · Data Quality · AI Governance**
 
-Hands-on design and implementation of Data Foundations programs, with a business-focused approach.
+Hands-on design and implementation of governed data foundations for AI, with a business-focused approach.
 
 Multidisciplinary background spanning Software Engineering, Data Architecture, Data Operations, Data Management, Data Privacy & Compliance, AI Implementation, Program & Project Management, and Technology Leadership.
 
