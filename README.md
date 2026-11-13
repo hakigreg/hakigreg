@@ -55,6 +55,12 @@ Production-oriented implementation of executable data-quality controls for finte
 - Nine deterministic scenarios covering a passing path and intentionally rejected data-quality failures
 - Reproducible local execution with DuckDB and Parquet, plus CI-generated quality evidence
 
+### [Minimum Lab Deployment](https://github.com/hakigreg/minimum-lab-deployment)
+Reusable method for learning a technology through the smallest working deployment of its essential behavior.
+
+- Human-defined learning goal and agent-built lab, validated through a run → change → observe → understand loop
+- Reusable `AGENTS.md` and `MINIMUM_LAB_DEPLOYMENT.md` instructions for creating new labs
+- Eight-part `mld/` guide covering fundamentals, a hands-on tutorial, use cases, references, practices and next iterations
 
 ---
 
